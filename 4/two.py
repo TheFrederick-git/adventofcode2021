@@ -1,4 +1,4 @@
-"""4/1 adventofcode"""
+"""4/2 adventofcode"""
 
 with open("input.txt", "r", encoding="UTF-8") as i_file:
     data = i_file.read().splitlines()
